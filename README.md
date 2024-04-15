@@ -1,1 +1,2 @@
-# ML-Project
+# ML-Project   EEG EYE State
+This project focuses on accurately classifying EEG signals into eyes open and eyes closed states. EEG signals reflect brain electrical activity and exhibit complex patterns representing different cognitive states. The objective is to use machine learning techniques to develop a model capable of discerning these states based on 14 distinct features extracted from EEG measurements.
